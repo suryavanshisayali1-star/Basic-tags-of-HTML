@@ -1,2 +1,37 @@
-# Basic-tags-of-HTML
-Basic tags of HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Tags of HTML</title>
+</head>
+<body>
+    <hr><h1><strong>SGM College,karad.</strong></h1><hr>
+    <h3>Welcome To SGM,College.</h3>
+    
+    <img src="sgmcollegenew.png" alt="SGM College">
+
+    <p>Click <a href="CollegeInfo.html">CollegeInfo</a> to go next page</p>
+
+
+    <ol><b>Courses</b>
+        <li>Sciece</li>
+        <li>Arts</li>
+        <li>Commerce</li>
+        <li>BCA</li>
+        <li>BBA</li> 
+        <li>BSC.CS</li>
+        <li>B.COM</li>
+        <li>B.COM.IT</li>
+        <li>BCS</li>
+        <li>Hotel Management</li>
+    </ol>
+
+    <ul><b>Facilities</b>
+        <li>Liarary</li>
+        <li>Hostel (boys & girls)</li>
+        <li>Sports complex</li>
+        <li>Placement & campus drives</li>
+        <li>Competitive exam guidance (UPSC/MPSC)</li>
+    </ul>
+
+</body>
+</html>
